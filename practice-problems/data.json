@@ -1,0 +1,1 @@
+{"nodes": ["Penelope", "Mark", "Julia", "Craig", "Brony"], "edges": [["Penelope", "Brony"], ["Penelope", "Julia"], ["Mark", "Brony"], ["Julia", "Craig"], ["Julia", "Brony"], ["Craig", "Brony"]]}
